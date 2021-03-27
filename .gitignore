@@ -1,5 +1,6 @@
-backend/backend/target
+backend/target
 .idea
 itec
 itec.pub
-backend/backend/project/target
+backend/project/target
+.scalafmt.conf
